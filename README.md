@@ -37,7 +37,7 @@ A next-generation, fully comprehensive productivity dashboard integrating a modu
 Below is the interaction flowchart outlining how user input travels through the frontend to the intelligence layer and back.
 
 ```mermaid
-graph TD
+graph LR
     %% Styling
     classDef userAccess fill:#1e293b,stroke:#e2e8f0,stroke-width:2px,color:#fff
     classDef aiAgent fill:#0ea5e9,stroke:#0284c7,stroke-width:2px,color:#fff
