@@ -1,0 +1,11 @@
+{
+  "name": "Zenith Dashboard",
+  "description": "A fully responsive, full-screen widget-based productivity dashboard with drag-and-drop widget sorting, interactive world clocks, daily task track, pomodoro timer, live currency widget, openweather widget, and smart advice.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
