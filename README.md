@@ -78,7 +78,7 @@ graph LR
 
 1. **Clone the project:**
    ```bash
-   git clone https://github.com/your-username/zenith-workspace.git
+   git clone https://github.com/dextryayers/zenith-dashboard.git
    cd zenith-workspace
    ```
 
